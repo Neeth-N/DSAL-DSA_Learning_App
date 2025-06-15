@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556322918014",
+    "project_id": "dsal-5fd73",
+    "storage_bucket": "dsal-5fd73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556322918014:android:e041942a28483723fb122f",
+        "android_client_info": {
+          "package_name": "com.example.dsal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_yNJzl9MX3n9CnK_p4PUCTTiD2XutMNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
