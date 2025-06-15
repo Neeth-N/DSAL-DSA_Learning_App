@@ -31,13 +31,6 @@
 
 * * * * *
 
-📱 Screenshots
---------------
-
-<div align="center"> <table> <tr> <td><img src="screenshots/home.png" width="200" alt="Home Screen"/></td> <td><img src="screenshots/topics.png" width="200" alt="Topics"/></td> <td><img src="screenshots/visualization.png" width="200" alt="Visualization"/></td> <td><img src="screenshots/practice.png" width="200" alt="Practice"/></td> </tr> <tr> <td align="center"><em>Home Screen</em></td> <td align="center"><em>Learning Topics</em></td> <td align="center"><em>Visualizations</em></td> <td align="center"><em>Practice Mode</em></td> </tr> </table> </div>
-
-* * * * *
-
 🛠️ Tech Stack
 --------------
 
@@ -206,13 +199,6 @@ Found a bug or have a feature idea? We'd love to hear from you!
 -   [ ] Video tutorials integration
 -   [ ] Interview preparation module
 -   [ ] Collaborative problem solving
-
-* * * * *
-
-📊 Project Stats
-----------------
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Neeth-N&repo=DSAL-DSA_Learning_App&show_icons=true&theme=radical" alt="GitHub Stats"> </div>
 
 * * * * *
 
