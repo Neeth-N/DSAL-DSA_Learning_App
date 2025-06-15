@@ -208,8 +208,8 @@ Found a bug or have a feature idea? We'd love to hear from you!
 **Neeth N**
 
 -   GitHub: [@Neeth-N](https://github.com/Neeth-N)
--   LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
--   Email: your.email@example.com
+-   LinkedIn: [Connect with me](https://linkedin.com/in/neethn)
+-   Email: just.neeth@gmail.com
 
 * * * * *
 
